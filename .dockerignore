@@ -1,0 +1,18 @@
+# VCS
+.git
+.gitignore
+
+# CI/CD
+.github/
+
+# Artifacts
+target/
+
+# OS junk
+.DS_Store
+
+# Go stuff
+*.log
+*.out
+*.test
+coverage.*
